@@ -1,0 +1,137 @@
+id,type,name,properties,notes
+P001,Person,Jaryd J. Atadero,role=victim;born=1996-01-02;age_at_disappearance=3;hometown=Littleton CO;weight_1999=35 lb (per DOW/AP);last_seen=1999-10-02,Child victim. Treat respectfully.
+P002,Person,Allyn J. Atadero,role=father;born=1958;died=2025-04-15;occupation=physical education teacher (Littleton; later Falcon Bluffs MS);1999=co-owner Poudre River Resort,Father; author of two books on the case; advocate for outdoor safety and Colorado AMBER Alert. Deceased 2025.
+P003,Person,Josallyn Atadero,role=sister;age_1999=6,Was on the hike; returned safely. Living family member - public role only.
+P004,Person,Arlyn Atadero,role=uncle (Allyn's twin);1999=co-owner Poudre River Resort;later=retired school administrator,Co-author credit on 'Missing: When the Son Sets' per TRE1 citations.
+P005,Person,Stacie Mckissick,role=mother,Divorced from Allyn; quoted in CBS 1999. Living family member - public role only.
+P006,Person,Deborah Atadero,role=Allyn's wife (married after 1999),Quoted in 2019 coverage.
+P007,Person,Gary Watts,role=hiker who found clothing 2003;from=Fort Collins,Named 'Gareth Watts' in TRE2 (see contradictions).
+P008,Person,Robert (Rob) Osborne,role=hiker who found clothing 2003;from=Fort Collins;occupation=restaurant owner,
+P009,Person,Bill Nelson,role=LCSO emergency services specialist / search lead 1999;rank_2000=Captain;later=undersheriff (retired),
+P010,Person,Justin Smith,role=LCSO sergeant & PIO 1999;later=Larimer County Sheriff,
+P011,Person,Jim Alderden,role=Larimer County Sheriff (1999-2003),
+P012,Person,Cindy Gordon,role=LCSO deputy / spokeswoman 1999,
+P013,Person,Mark Sheets,role=Larimer County SAR member; aboard crashed helicopter;residence=Loveland,Seriously injured 1999-10-03.
+P014,Person,George Janson,role=Larimer County SAR manager 1999,
+P015,Person,Don Davis,"role=Larimer County SAR member, 2003 recovery",
+P016,Person,Unidentified fisherman A,role=witness; one of two fishermen last known to see Jaryd,Not publicly identified (AP 1999).
+P017,Person,Unidentified fisherman B,role=witness; one of two fishermen last known to see Jaryd,Not publicly identified (AP 1999).
+P018,Person,Eloise Campanella,role=LCSO spokeswoman 2003,
+P019,Person,Todd Malmsbury,role=Colorado Division of Wildlife spokesman 1999,
+P020,Person,Fred Quartarone,role=Colorado Division of Wildlife 2003,
+P021,Person,Jack Swanburg,"role=forensics expert; retired criminologist, former Arapahoe County coroner",Commented generally in 2003 coverage; not on the case team per sources.
+P022,Person,Tom Tancredo,role=U.S. Representative (CO); sponsor of H.R. 3817,
+P023,Person,Mark Udall,role=U.S. Representative (CO); cosponsor of H.R. 3817,
+P024,Person,Bill Clinton,role=U.S. President; approved Public Law 106-324,AP 2003 says trail 'dedicated ... by then-President Clinton'.
+P025,Person,Bill Owens,role=Governor of Colorado; signed HB 02-1083 (AMBER Alert) 2002-04-01,
+P026,Person,Bill Ritter,role=Governor of Colorado; Recreational Safety Awareness Week proclamation,Wikipedia only; date not given.
+P027,Person,David Paulides,"role=author/researcher, CanAm Missing Project / Missing 411",Low-reliability secondary source on this case.
+P028,Person,Rod 'Seaux' Larreau,role=volunteer tracker (Army Ranger background per TRE) 1999,Named only in user's write-up (TRE/TRE1/TRE2); not verified in news.
+P029,Person,'Janet' (pseudonym),role=Christian Singles Network member; family friend who took the children,Pseudonym used by TRE; real name intentionally withheld.
+P030,Person,Resort manager ('Butch' per TRE),role=Poudre River Resort manager 1999; called Sheriff's Office,Coloradoan says resort manager had already called; first name only from TRE.
+P031,Person,Dr. Michael Baden,role=forensic pathologist; reportedly commented on Fox News in 2003,Interview claim from TRE/TRE1 only; NOT verified - no primary source found.
+P032,Person,Unidentified Fort Collins woman (hoax),role=charged for falsely claiming she knew the abductor,Unnamed in sources.
+P033,Person,Unidentified California man (false identity claim),role=claimed to be Jaryd; arrested May 2019 for violating restraining order,Unnamed in sources; DNA excluded him.
+P034,Person,Mark Miedema,"role=context: 10-year-old killed by mountain lion in RMNP, 1997",Prior-incident context only.
+P035,Person,Tim Dunbar,"role=Executive Director, Mountain Lion Foundation (2015)",Emails to Allyn quoted in TRE1 from 'Missing: When the Son Sets'.
+P036,Person,"Michelle LaRue, PhD","role=Executive Director, Cougar Network (2015)",Email to Allyn quoted in TRE1 from book.
+P037,Person,Unidentified Green Beret tracker,role=volunteer tracker 1999; described as a well-known Colorado author,TRE only.
+P038,Person,Unidentified Mesa Verde ranger,role=reported possible sighting Oct 1999,TRE only; Denver Post 2000 confirms Mesa Verde sighting reports did not pan out.
+L001,Location,Big South Trail (Jaryd Atadero Legacy Trail dedication),length=10.4 mi one-way (USFS) / 11 mi (Coloradoan);start_elev_ft=8440;peak_elev_ft=9550;dedicated=2000-10-19,Follows the Cache la Poudre River; enters Comanche Peak Wilderness 0.5 mi from trailhead.
+L002,Location,Big South Trailhead (#944),lat=40.634227;lon=-105.807034;elev_ft=8440;access=CO Hwy 14,Public USFS coordinates.
+L003,Location,Poudre River Resort,area=Poudre Canyon;1999_owners=Allyn & Arlyn Atadero,No address recorded. ~15 mi east of trail (Coloradoan).
+L004,Location,Camp 2 marker area (last-seen point),approx_trail_mile=1.25-1.5;note=TRE says Campsite #2 or #3,Last known sighting by fishermen.
+L005,Location,Clothing recovery site (talus slope),found=2003-06-04;vertical_above_trail_ft=436-550 (sources vary);slope_deg=40-45,East slope above Camp 2 per SAR report; TRE calls it the 'Crown Point mountainside'.
+L006,Location,Remains recovery site,found=2003-06-14;elev_ft=9120;offset=~180 ft north and ~20 ft higher than clothing site,Per SAR report via Coloradoan.
+L007,Location,Helicopter crash site (upper Big South Trail),date=1999-10-03,
+L008,Location,Cache la Poudre River (Big South),,Dive teams searched; drowning theory.
+L009,Location,Comanche Peak Wilderness,,
+L010,Location,Roosevelt National Forest,,
+L011,Location,Poudre Canyon / Colorado Highway 14,,Media staging (17 satellite trucks) along Hwy 14.
+L012,Location,State fish hatchery (near resort),,Stated original destination of the outing.
+L013,Location,Poudre Falls,,Brief stop en route per TRE only.
+L014,Location,Fort Collins-Loveland Municipal Airport,,Helicopter refueled here.
+L015,Location,Rocky Mountain National Park,,Trail eventually connects; 1997 Miedema attack.
+L016,Location,"Littleton, Colorado",,Family's 1999 home city; group from Littleton (CNN).
+L017,Location,Mesa Verde National Park,,Site of reported (unconfirmed) sighting.
+L018,Location,Twin Lakes (as reported),,LA Times/AP Oct 5 1999 placed hike 'near Twin Lakes'.
+L019,Location,Peterson Lake (direction),,TRE: Jaryd headed toward Peterson Lake direction.
+L020,Location,Poudre Valley Hospital,,Sheets treated 3 days.
+L021,Location,"Douglas County, Colorado",,2019 arrest of false-claimant.
+O001,Organization,Larimer County Sheriff's Office (LCSO),,Lead agency.
+O002,Organization,Larimer County Search and Rescue,,
+O003,Organization,Christian Singles Network,members_on_hike=11,Group Jaryd hiked with.
+O004,Organization,Colorado Division of Wildlife,,Now Colorado Parks & Wildlife.
+O005,Organization,NecroSearch,,"Forensic recovery group, June 14 2003."
+O006,Organization,Colorado Bureau of Investigation (CBI),,Clothing/hair/DNA tests; AMBER Alert liaison.
+O007,Organization,Larimer County Coroner's Office,,Signed death certificate Oct 2003. Coroner's name not verified.
+O008,Organization,"U.S. Air Force, F.E. Warren AFB (Cheyenne, WY)",,Supplied UH-1N helicopter and crew.
+O009,Organization,USDA Forest Service (Arapaho & Roosevelt NFs),,Land manager; trailhead sign required by PL 106-324.
+O010,Organization,GeoSeis Helicopters (Fort Collins),,Lama helicopter Oct 4 1999.
+O011,Organization,Child Protection Network (local),,Joined 2003-06-14 search.
+O012,Organization,U.S. Congress,,Passed H.R. 3817.
+O013,Organization,CanAm Missing Project,,Paulides; low reliability.
+O014,Organization,Thunder Street Ministry (Thunder Road Engage),,USER'S OWN research group/site.
+O015,Organization,Mountain Lion Foundation,,
+O016,Organization,Cougar Network,,
+O017,Organization,Technical Associates (California DNA lab),,Per TRE2 only: performed final confirming test.
+O018,Organization,Unnamed Texas DNA firm,,"Per TRE/TRE2: second test, delayed by Hurricane Katrina."
+O019,Organization,Arapahoe County authorities,,Named in Congressional Record as part of search.
+E001,Event,Disappearance of Jaryd Atadero,date=1999-10-02;approx_time=11:20-12:15,
+E002,Event,Group outing/hike to Big South Trail,date=1999-10-02;left_resort=~10:00 (SAR) / 9:00 decision (TRE);on_trail=10:30-10:50 (TRE),
+E003,Event,Fishermen encounter,date=1999-10-02;time=~11:30 (SAR) / ~11:20 (TRE),Jaryd asked if there were bears in the woods.
+E004,Event,Scream heard by hikers,date=1999-10-02;time=11:30-12:00 (TRE),"Characterized as playful by some, scared by others."
+E005,Event,Group realizes Jaryd missing; searches ~1 hr,date=1999-10-02;time=~12:15,
+E006,Event,Report to Sheriff / SAR page-out,date=1999-10-02;911=~16:00;page_Nelson=16:26;page_Janson=17:07,Resort manager called before Allyn did.
+E007,Event,1999 search operation,start=1999-10-02;end=1999-10-08;searchers=~70 (AP 1999) to 200+ (2003/2019 reports),"Dogs, divers, trackers, plane, helicopters."
+E008,Event,Air Force helicopter crash,date=1999-10-03;time=15:30;aboard=5;fatalities=0,
+E009,Event,Track finds (lion / possible child / bear),date=1999-10-05 to 1999-10-06,Disputed interpretation.
+E010,Event,Official search suspended,date=1999-10-08 (Friday);by=Sheriff Alderden,
+E011,Event,First-anniversary 'service for healing and hope',date=2000-10-02;attendance=~50,
+E012,Event,Trail dedication enacted (PL 106-324),date=2000-10-19,
+E013,Event,Colorado AMBER Alert law signed,date=2002-04-01;bill=HB 02-1083,Allyn says he was present at signing (Denver7).
+E014,Event,Clothing discovered by hikers,date=2003-06-04 (a Wednesday by calendar; AP 2003-06-09 and CBS/AP 2003-06-11 say found 'Thursday'),
+E015,Event,Clothing turned in to LCSO; site visited,date=2003-06-05,
+E016,Event,LCSO press conference on clothing,date=2003-06-10,Alderden: consistent with predator.
+E017,Event,Remains recovery search (skull cap & molar found),date=2003-06-14;time_found=11:30,"LCSO, LCSAR, DOW, NecroSearch."
+E018,Event,DNA identification testing,initial=~86% (CBI);later=100% match (years later),Timing and labs disputed.
+E019,Event,Death certificate signed,"date=2003-10;manner='undetermined, probable mountain lion attack'",
+E020,Event,Memorial service,date=2003-11-20,Per Wikipedia (citing Coloradoan 2003-11-21).
+E021,Event,Fort Collins woman charged over false abduction claims,date=unknown,
+E022,Event,False claimant arrested for restraining-order violation,date=2019-05,
+E023,Event,Death of Allyn Atadero,date=2025-04-15,
+E024,Event,Recreational Safety Awareness Week proclamation,date=unknown (Ritter term 2007-2011),Wikipedia only.
+E025,Event,Anonymous tip to reporter of coming arrest,date=~2009,TRE only; legitimacy undetermined.
+E026,Event,Mesa Verde sighting report,date=1999-10 (evening after disappearance per TRE),Unconfirmed.
+E027,Event,GeoSeis Lama helicopter attempt aborted (winds),date=1999-10-04,
+E028,Event,Clothing photos emailed to Allyn; ID confirmed,date=2003-06-05,
+D001,Document,Larimer County Search and Rescue investigation report,,Quoted/summarized by Coloradoan 2019; not publicly posted.
+D002,Document,LCSO Supplemental Field Incident Report 99-06-59.S02 (Sheriff's report),,Cited by TRE1. User will provide the Sheriff's report (pending).
+D003,Document,Death certificate of Jaryd Atadero,"signed=2003-10;manner='undetermined, probable mountain lion attack'",
+D004,Document,H.R. 3817 / Public Law 106-324,approved=2000-10-19;stat=114 Stat. 1291,
+D005,Document,Colorado HB 02-1083 (AMBER Alert Plan),signed=2002-04-01,
+D006,Document,Book: Missing: The Jaryd Atadero Story (Allyn Atadero),year=2008;publisher=Tate Publishing;isbn=978-1602477940,
+D007,Document,Book: Missing: When the Son Sets: The Jaryd Atadero Story (Allyn & Arlyn Atadero),year=2017;isbn=978-1542751391,Primary source for TRE docs.
+D008,Document,NecroSearch recovery report (2003),,Quoted in D007 via TRE1.
+D009,Document,CBI DNA / lab reports,,Not public; described by family/TRE.
+D010,Document,Air Force crash investigation,,Findings summarized by Greeley Tribune 2007.
+D011,Document,Thunder Street Ministry case page: Jaryd Atadero,,USER'S OWN write-up.
+D012,Document,"Full Disclosure Part One - Theories (PDF, 9 pp.)",,USER'S OWN research doc.
+D013,Document,"Full Disclosure Part Two - The Evidence (PDF, 6 pp.)",,USER'S OWN research doc; includes LCSO photos.
+D014,Document,Book: Missing 411 - Western United States (Paulides),,Contains a section on the case (per CanAm page).
+V001,Vehicle,USAF UH-1N 'Huey' helicopter (F.E. Warren AFB),crashed=1999-10-03,Destroyed.
+V002,Vehicle,Lama helicopter (GeoSeis),date=1999-10-04,
+V003,Vehicle,Search plane,dates=1999-10-05 to 10-07,
+X001,Object,White Disney 'Tarzan' tennis shoes (pair),found=2003-06-04;condition=little weathering,
+X002,Object,Fleece jacket/pullover (brown/tan with patterned fleece),found=2003-06-04;holes/punctures=yes,
+X003,Object,Blue sweatpants (found inside out),"found=2003-06-04;condition=tattered, one leg largely missing",
+X004,Object,Skull cap fragment,found=2003-06-14;location=crevice under shrub/tree,Human remains; handle respectfully.
+X005,Object,Molar (tooth),found=2003-06-14;location=on log above crevice,Consumed in DNA testing per TRE.
+X006,Object,Hairs on clothing (light and dark),analyzed_by=CBI,Results not public.
+X007,Object,Mountain lion tracks (1999),,
+X008,Object,Small prints thought to be Jaryd's (possibly bear),,
+X009,Object,Walking stick,,Described by fishermen.
+X010,Object,Jaryd Atadero Legacy Whistle program,"handed_out=4,000+ by 2000",Larimer County safety program.
+X011,Object,Interpretive sign at Big South Trailhead,required_by=PL 106-324,
+X012,Object,"Unrecovered items (remaining skeleton, underwear, shirt/tank top)",,Per TRE2/CanAm; mandible per CanAm.
+X013,Object,Boot print thought to be Jaryd's,date=1999-10-06,
